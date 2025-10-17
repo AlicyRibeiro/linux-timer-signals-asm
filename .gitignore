@@ -1,0 +1,9 @@
+# Arquivos gerados pelo Makefile
+*.o
+*.lst
+a.out
+relogio
+program
+
+# Arquivos de backup e temporários
+*~
